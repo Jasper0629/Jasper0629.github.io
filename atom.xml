@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>孙三狗的博客</title>
+  
+  <subtitle>天空才是上限，梦想总会实现</subtitle>
+  <link href="https://jasper0629.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://jasper0629.github.io/"/>
+  <updated>2022-04-18T06:08:07.517Z</updated>
+  <id>https://jasper0629.github.io/</id>
+  
+  <author>
+    <name>孙三狗</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>pytorch</title>
+    <link href="https://jasper0629.github.io/2022/04/18/pytorch/"/>
+    <id>https://jasper0629.github.io/2022/04/18/pytorch/</id>
+    <published>2022-04-18T06:08:07.000Z</published>
+    <updated>2022-04-18T06:08:07.517Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
